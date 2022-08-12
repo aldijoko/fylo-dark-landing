@@ -37,7 +37,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 ### Links
 
 - Solution URL: [Github](https://github.com/aldijoko/fylo-dark-landing)
-- Live Site URL: [Live Url](https://fylodark.netlify.app/)
+- Live Site URL: [Live Url](https://fylodarkaljok.netlify.app/)
 
 ## My process
 
